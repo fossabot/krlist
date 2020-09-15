@@ -1,0 +1,5 @@
+- DOMAIN-KEYWORD,youtube,krlist
+- DOMAIN-SUFFIX,xvideos.com,krlist
+- DOMAIN-SUFFIX,pornhub.com,krlist
+- DOMAIN,ecchi.iwara.tv,krlist
+- DOMAIN,danbooru.donmai.us,krlist
