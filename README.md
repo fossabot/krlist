@@ -1,5 +1,4 @@
-<div align="center">
-<img src="https://archive.vn/KUwoL/d65a98301512ab5a40c7325a0eec12c6ac3663f8/scr.png" />
+![WARNING](https://archive.vn/KUwoL/d65a98301512ab5a40c7325a0eec12c6ac3663f8/scr.png)
 
 # krlist
 
@@ -13,7 +12,7 @@ rule-providers:
     type: http
     behavior: classical
     path: ./Rules/krlist
-    url: https://raw.githubusercontent.com/ygsk10/krlist/master/krlist.yaml
+    url: https://ygsk10.github.io/krlist/krlist.yaml
     interval: 86400
 
 rules:
