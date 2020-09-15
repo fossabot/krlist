@@ -18,3 +18,5 @@ rule-providers:
 rules:
 - RULE-SET,krlist,nokr
 ```
+# See Also
+https://github.com/preco21/bypass-censorship-korea
