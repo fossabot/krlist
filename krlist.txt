@@ -1,5 +1,6 @@
-- DOMAIN-KEYWORD,youtube,krlist
-- DOMAIN-SUFFIX,xvideos.com,krlist
-- DOMAIN-SUFFIX,pornhub.com,krlist
-- DOMAIN,ecchi.iwara.tv,krlist
-- DOMAIN,danbooru.donmai.us,krlist
+payload:
+  - '.youtube.com'
+  - '.xvideos.com'
+  - '.pornhub.com'
+  - 'ecchi.iwara.tv'
+  - 'danbooru.donmai.us'
