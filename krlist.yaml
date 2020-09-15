@@ -1,6 +1,6 @@
 payload:
-  - '.youtube.com'
-  - '.xvideos.com'
-  - '.pornhub.com'
-  - 'ecchi.iwara.tv'
-  - 'danbooru.donmai.us'
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-SUFFIX,xvideos.com
+  - DOMAIN-SUFFIX,pornhub.com
+  - DOMAIN,ecchi.iwara.tv
+  - DOMAIK,danbooru.donmai.us
