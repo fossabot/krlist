@@ -19,4 +19,4 @@ rules:
 - RULE-SET,krlist,nokr
 ```
 # See Also
-https://github.com/preco21/bypass-censorship-korea
+[한국에서 인터넷 검열을 피하는 방법](https://github.com/preco21/bypass-censorship-korea)
